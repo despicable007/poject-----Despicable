@@ -1,5 +1,5 @@
 # poject-----Despicable
-welcome to Project Despicable! this is a information project.
+welcome to Project Despicable! this is a website viewer project.
 
 
 
